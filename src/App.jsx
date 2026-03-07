@@ -423,7 +423,7 @@ export default function App() {
             <em style={{color:"#e94560"}}>Complete Metrics Timeline — All Years, All Measurements</em>
           </h1>
           <p style={{margin:0,fontSize:"0.73rem",color:"#555",maxWidth:560,lineHeight:1.6}}>
-            Every figure from OpenSignal primary reports · Download · Availability · Reliability · Consistent Quality · "~" = directional estimate from report text
+            Every figure from OpenSignal primary reports · Download · Availability · Reliability · Consistent Quality
           </p>
         </div>
       </div>
