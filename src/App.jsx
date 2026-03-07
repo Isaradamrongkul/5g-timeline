@@ -955,7 +955,7 @@ export default function App() {
             ANTITRUST SEMINAR · OPENSIGNAL PRIMARY DATA · 2016–2026
           </div>
           <h1 style={{margin:"0 0 0.3rem",fontSize:"clamp(1.1rem,3vw,1.8rem)",fontWeight:"normal",lineHeight:1.2}}>
-            5G & Mobile Speed Rankings<br/>
+            Mobile Speed Rankings — The 5G Era<br/>
             <em style={{color:"#e94560"}}>Complete Metrics Timeline — All Years, All Measurements</em>
           </h1>
           <p style={{margin:0,fontSize:"0.73rem",color:"#555",maxWidth:560,lineHeight:1.6}}>
