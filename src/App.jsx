@@ -952,7 +952,7 @@ export default function App() {
       <div style={{background:"linear-gradient(160deg,#06060f,#100820,#060f18)",borderBottom:"1px solid #ffffff07",padding:"1.5rem 1.5rem 1rem"}}>
         <div style={{maxWidth:920,margin:"0 auto"}}>
           <div style={{fontFamily:"monospace",fontSize:"0.55rem",letterSpacing:"0.3em",color:"#e94560",textTransform:"uppercase",marginBottom:"0.3rem"}}>
-            ANTITRUST SEMINAR · OPENSIGNAL PRIMARY DATA · 2016–2026
+            ANTITRUST · OPENSIGNAL PRIMARY DATA · 2016–2026
           </div>
           <h1 style={{margin:"0 0 0.3rem",fontSize:"clamp(1.1rem,3vw,1.8rem)",fontWeight:"normal",lineHeight:1.2}}>
             Mobile Speed Rankings — The 5G Era<br/>
